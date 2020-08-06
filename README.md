@@ -1,9 +1,6 @@
-# NodeJS Authentication System
+# Authentication
 
-## Overview
-### This Project can be used to Bootstrap complex NodeJs projects which generally include Authentication using email and Google-Oauth
 
-## Features
 1. Sign Up using Email
 2. Sign In using Email
 3. Google login/Signup
