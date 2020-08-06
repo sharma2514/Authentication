@@ -1,0 +1,30 @@
+/*removing default margin*/
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+/*footer style*/
+footer{
+    height: 5%;
+    position: absolute;
+    bottom: 0px;
+    background-color: red;
+    width: 100%;
+    text-align: center;
+    padding-top: 0.5rem;
+}
+
+/*style for form cards*/
+.form-card{
+    height: 80%;
+    display: flex;
+    flex-direction: center;
+    justify-content: center;
+    align-items: center;
+}
+
+/*icon margin*/
+.form-card i{
+    margin-right: 1rem;
+}
